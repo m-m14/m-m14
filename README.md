@@ -39,5 +39,3 @@
 
 🎓 High school graduate  
 Self-learning through online resources, tutorials, and building things on my own.  
-
----
